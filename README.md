@@ -84,7 +84,8 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 
 - [https://blog.organica.social/sobre/](https://blog.organica.social/sobre/)
 - [https://dicas.bolha.us/#leituras](https://dicas.bolha.us/#leituras)
-- [https://jardim.social.br/usuarios/glossario/](https://jardim.social.br/usuarios/glossario/) (Foi um dos primeiros que acessei ao chegar ao fediverso. É bastante completo.)
+- [https://jardim.social.br/usuarios/glossario/](https://jardim.social.br/usuarios/glossario/)
+	- Foi um dos primeiros que acessei ao chegar ao fediverso. É bastante completo.
 - [https://gotosocial.org/](https://gotosocial.org/)
 - [https://join-lemmy.org/](https://join-lemmy.org/)
 - [https://friendi.ca/](https://friendi.ca/)
@@ -92,8 +93,10 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 - [https://joinpeertube.org/](https://joinpeertube.org/)
 - [https://www.funkwhale.audio/join/](https://www.funkwhale.audio/join/)
 - [https://pixelfed.org/](https://pixelfed.org/)
-- [https://fedi.tips/](https://fedi.tips/) (muito baseado no mastodon mas ajuda iniciantes)
-- [https://fedidb.com/](https://fedidb.com/) (dabatase com servidores e clientes que participam do fediverso, claro, aqueles que optaram a serem indexados)
+- [https://fedi.tips/](https://fedi.tips/) 
+	- Muito baseado no mastodon mas ajuda iniciantes.
+- [https://fedidb.com/](https://fedidb.com/)
+	- Dabatase com servidores e clientes que participam do fediverso, claro, aqueles que optaram a serem indexados.
 
 # CONTAS QUE JÁ COLABORARAM PARA O PROJETO
 
