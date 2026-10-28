@@ -1,6 +1,6 @@
 <a rel="me" href="https://organica.social/@rafzmilhomens">Mastodon</a>
 
-# FEDIPEDIA
+# FEDIPEDIA[^4]
 
 Chamo-me Rafael[^2] e sou o criador desta página. A ideia é facilitar a navegação pelas redes federadas aos novos membros. Vou adicionando novas informações de acordo com minhas próprias descobertas, organicamente.
 
@@ -31,3 +31,5 @@ Nos links abaixo você encontrará os verbetes em ordem alfabética.
 [^2]: [https://rafzmilhomens.github.io/RafaelMMilhomens/](https://rafzmilhomens.github.io/RafaelMMilhomens/)
 
 [^3]: Também é possível contribuir para a manutenção dessa página acessando minha página e comprando algum produto ou serviço. Dessa forma é possível manter todos os meus projetos independentes. **Você também pode contribuir com os responsáveis por sua instância de diversas formas. Procure informações no blog da sua.**
+
+[^4]: Esta página é absolutamente independente e não representa a voz de ninguém além de seu criador. Não está associada a nenhuma entidade.
