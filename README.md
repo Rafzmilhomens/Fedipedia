@@ -19,7 +19,7 @@ Nos links abaixo você encontrará os verbetes em ordem alfabética.
 5. [Mensagem_Privada_(DM)](Mensagem_Privada_(DM))
 6. [Seguir_Hashtags](Seguir_Hashtags)
 7. [Sensíveis](Sensíveis)
-8. [Tags_semanais](Tags_semanais)
+8. [Tags_Semanais](Tags_Semanais)
 9. [Textos_Acessíveis](Textos_Acessíveis)
 10. [Toots](Toots)
 11. [XMPP](XMPP)
