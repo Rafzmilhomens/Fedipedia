@@ -22,7 +22,7 @@ Nos links abaixo você encontrará os verbetes em ordem alfabética.
 10. [Toots](Toots)
 11. [XMPP](XMPP)
 
-# FONTES
+# FONTES PARA CONSULTA
 
 [https://blog.organica.social/sobre/](https://blog.organica.social/sobre/)
 
