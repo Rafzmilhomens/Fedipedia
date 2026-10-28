@@ -1,5 +1,3 @@
-<a rel="me" href="https://organica.social/@rafzmilhomens">Mastodon</a>
-
 Essa é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 # VERBETES
 
@@ -109,6 +107,7 @@ Se quiser colaborar[^3] ou corrigir alguma informação, você pode mandar um e-
 
 RFZ
 
+<a rel="me" href="https://organica.social/@rafzmilhomens">Mastodon</a>
 
 [^2]: [https://rafzmilhomens.github.io/RafaelMMilhomens/](https://rafzmilhomens.github.io/RafaelMMilhomens/)
 
