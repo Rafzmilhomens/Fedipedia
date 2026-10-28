@@ -10,18 +10,19 @@ RFZ
 
 Nos links abaixo você encontrará os verbetes em ordem alfabética.
 
-1. [Buscadores](Buscadores)
-2. [Instâncias](Instâncias)
-3. [Internet_Devagar](Internet_Devagar)
-4. [Introdução](Introdução)
-5. [Mensagem_Privada_(DM)](Mensagem_Privada_(DM))
-6. [Seguir_Hashtags](Seguir_Hashtags)
-7. [Sensíveis](Sensíveis)
-8. [Tags_Semanais](Tags_Semanais)
-9. [TDM](TDM)
-10. [Textos_Acessíveis](Textos_Acessíveis)
-11. [Toots](Toots)
-12. [XMPP](XMPP)
+1. [Boost](Boost)
+2. [Buscadores](Buscadores)
+3. [Instâncias](Instâncias)
+4. [Internet_Devagar](Internet_Devagar)
+5. [Introdução](Introdução)
+6. [Mensagem_Privada_(DM)](Mensagem_Privada_(DM))
+7. [Seguir_Hashtags](Seguir_Hashtags)
+8. [Sensíveis](Sensíveis)
+9. [Tags_Semanais](Tags_Semanais)
+10. [TDM](TDM)
+11. [Textos_Acessíveis](Textos_Acessíveis)
+12. [Toots](Toots)
+13. [XMPP](XMPP)
 
 # FONTES PARA CONSULTA
 

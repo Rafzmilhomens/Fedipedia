@@ -1,0 +1,1 @@
+1. O fediverso não funciona com algorítimos treinados para te viciar. De modo que o Boost é uma espécie de retweet que faz com que as pessoas que te seguem também possam ter acesso ao conteúdo que você deu boost. Isso aumenta o alcance do que você gostar.
