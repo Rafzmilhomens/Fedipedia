@@ -1,5 +1,4 @@
-
-## Tags Semanais
+# Tags Semanais
 
 1. Há tags populares para cada dia da semana. São uma boa forma de conhecer novos usuários. Aqui estão algumas:
 	1. segundaficha (para jogos)
