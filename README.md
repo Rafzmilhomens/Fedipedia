@@ -36,7 +36,7 @@ Nos links abaixo você encontrará os verbetes em ordem alfabética.
 
 - [https://blog.organica.social/sobre/](https://blog.organica.social/sobre/)
 - [https://dicas.bolha.us/#leituras](https://dicas.bolha.us/#leituras)
-- [https://jardim.social.br/usuarios/glossario/](https://jardim.social.br/usuarios/glossario/)
+- [https://jardim.social.br/usuarios/glossario/](https://jardim.social.br/usuarios/glossario/) (Foi um dos primeiros que acessei ao chegar ao fediverso. É bastante completo.)
 - [https://docs.akkoma.dev/stable/](https://docs.akkoma.dev/stable/)
 - [https://joinsharkey.org/](https://joinsharkey.org/)
 - [https://gotosocial.org/](https://gotosocial.org/)
