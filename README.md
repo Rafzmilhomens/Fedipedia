@@ -1,4 +1,4 @@
-Essa é uma enciclopédia não técnica e não oficial sobre o Fediverso.
+Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 # VERBETES
 
 **A**
