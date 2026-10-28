@@ -1,8 +1,6 @@
 <a rel="me" href="https://organica.social/@rafzmilhomens">Mastodon</a>
 
-# FEDIPEDIA[^4]
-
-Chamo-me Rafael[^2] e sou o criador desta página. A ideia é facilitar a navegação pelas redes federadas aos novos membros. Vou adicionando novas informações de acordo com minhas próprias descobertas, organicamente.
+Chamo-me Rafael[^2] e sou o criador desta página. A ideia é facilitar a navegação pelas redes federadas aos novos membros. Vou adicionando novas informações de acordo com minhas próprias descobertas, organicamente.[^4]
 
 Se quiser colaborar[^3] ou corrigir alguma informação, você pode mandar um e-mail para rafzmilhomens@proton.me ou uma DM em rafzmilhomens@organica.social 
 
