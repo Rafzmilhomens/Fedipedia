@@ -28,11 +28,12 @@ Nos links abaixo você encontrará os verbetes em ordem alfabética.
 16. [Raspagem_Na_Web](Raspagem_Na_Web)
 17. [Seguir_Hashtags](Seguir_Hashtags)
 18. [Sensíveis](Sensíveis)
-19. [Tags_Semanais](Tags_Semanais)
-20. [TDM](TDM)
-21. [Textos_Acessíveis](Textos_Acessíveis)
-22. [Toots](Toots)
-23. [XMPP](XMPP)
+19. [Silenciar](Silenciar)
+20. [Tags_Semanais](Tags_Semanais)
+21. [TDM](TDM)
+22. [Textos_Acessíveis](Textos_Acessíveis)
+23. [Toots](Toots)
+24. [XMPP](XMPP)
 
 # FONTES PARA CONSULTA
 
