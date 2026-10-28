@@ -3,41 +3,84 @@
 Essa é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 # VERBETES
 
-Nos links abaixo você encontrará os verbetes em ordem alfabética.
+**A**
 
 1. [Activity_Pub](Activity_Pub)
 2. [Aplicativo_Cliente](Aplicativo_Cliente)
 3. [Apoio_Financeiro](Apoio_Financeiro)
 4. [Avatar_Do_Perfil](Avatar_Do_Perfil)
-5. [Boost](Boost)
-6. [Buscadores](Buscadores)
-7. [Em_Alta](Em_Alta)
-8. [Fediverso](Fediverso)
-9. [Federação](Federação)
-10. [Instâncias](Instâncias)
-11. [Internet_Devagar](Internet_Devagar)
-12. [Introdução](Introdução)
-13. [Jeferson](Jeferson)
-14. [Mensagem_Privada_(DM)](Mensagem_Privada_(DM))
-15. [Metadados](Metadados)
-16. [Moderação](Moderação)
-17. [Multiplataforma](Multiplataforma)
-18. [Open_Source](Open_Source)
-19. [Página_Inicial](Página_Inicial)
-20. [Peertube](Peertube)
-21. [Pixelfed](Pixelfed)
-22. [Portabilidade](Portabilidade)
-23. [Raspagem_Na_Web](Raspagem_Na_Web)
-24. [Registrar-se_Em_Uma_Instância](Registrar-se_Em_Uma_Instância)
-25. [Seguir_Hashtags](Seguir_Hashtags)
-26. [Sensíveis](Sensíveis)
-27. [Silenciar](Silenciar)
-28. [Tags_Semanais](Tags_Semanais)
-29. [TDM](TDM)
-30. [Textos_Acessíveis](Textos_Acessíveis)
-31. [Toots](Toots)
-32. [Unfollow](Unfollow)
-33. [XMPP](XMPP)
+
+**B**
+
+1. [Boost](Boost)
+2. [Buscadores](Buscadores)
+
+**E**
+
+3. [Em_Alta](Em_Alta)
+
+**F**
+
+4. [Fediverso](Fediverso)
+5. [Federação](Federação)
+
+**I**
+
+6. [Instâncias](Instâncias)
+7. [Internet_Devagar](Internet_Devagar)
+8. [Introdução](Introdução)
+
+**J**
+
+6. [Jeferson](Jeferson)
+
+**M**
+
+7. [Mensagem_Privada_(DM)](Mensagem_Privada_(DM))
+8. [Metadados](Metadados)
+9. [Moderação](Moderação)
+10. [Multiplataforma](Multiplataforma)
+
+**O**
+
+11. [Open_Source](Open_Source)
+
+**P**
+
+12. [Página_Inicial](Página_Inicial)
+13. [Peertube](Peertube)
+14. [Pixelfed](Pixelfed)
+15. [Portabilidade](Portabilidade)
+
+**R**
+
+16. [Raspagem_Na_Web](Raspagem_Na_Web)
+17. [Registrar-se_Em_Uma_Instância](Registrar-se_Em_Uma_Instância)
+
+**S**
+
+18. [Seguir_Hashtags](Seguir_Hashtags)
+19. [Sensíveis](Sensíveis)
+20. [Silenciar](Silenciar)
+
+**T**
+
+21. [Tags_Semanais](Tags_Semanais)
+22. [TDM](TDM)
+23. [Textos_Acessíveis](Textos_Acessíveis)
+24. [Toots](Toots)
+
+**U**
+
+25. [Unfollow](Unfollow)
+
+**V**
+
+26. [Visibilidade_Dos_Toots](Visibilidade_Dos_Toots)
+
+**X**
+
+27. [XMPP](XMPP)
 
 # FONTES PARA CONSULTA
 
