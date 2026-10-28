@@ -18,10 +18,11 @@ Nos links abaixo você encontrará os verbetes em ordem alfabética.
 4. [Introdução](Introdução)
 5. [Mensagem_Privada_(DM)](Mensagem_Privada_(DM))
 6. [Seguir_Hashtags](Seguir_Hashtags)
-7. [Tags_semanais](Tags_semanais)
-8. [Textos_Acessíveis](Textos_Acessíveis)
-9. [Toots](Toots)
-10. [XMPP](XMPP)
+7. [Sensíveis](Sensíveis)
+8. [Tags_semanais](Tags_semanais)
+9. [Textos_Acessíveis](Textos_Acessíveis)
+10. [Toots](Toots)
+11. [XMPP](XMPP)
 
 # FONTES
 
