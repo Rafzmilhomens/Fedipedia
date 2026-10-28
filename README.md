@@ -10,21 +10,23 @@ RFZ
 
 Nos links abaixo você encontrará os verbetes em ordem alfabética.
 
-1. [Boost](Boost)
-2. [Buscadores](Buscadores)
-3. [Em_Alta](Em_Alta)
-4. [Instâncias](Instâncias)
-5. [Internet_Devagar](Internet_Devagar)
-6. [Introdução](Introdução)
-7. [Mensagem_Privada_(DM)](Mensagem_Privada_(DM))
-8. [Página_Inicial](Página_Inicial)
-9. [Seguir_Hashtags](Seguir_Hashtags)
-10. [Sensíveis](Sensíveis)
-11. [Tags_Semanais](Tags_Semanais)
-12. [TDM](TDM)
-13. [Textos_Acessíveis](Textos_Acessíveis)
-14. [Toots](Toots)
-15. [XMPP](XMPP)
+1. [Aplicativo_Cliente](Aplicativo_Cliente)
+2. [Apoio_Financeiro](Apoio_Financeiro)
+3. [Boost](Boost)
+4. [Buscadores](Buscadores)
+5. [Em_Alta](Em_Alta)
+6. [Instâncias](Instâncias)
+7. [Internet_Devagar](Internet_Devagar)
+8. [Introdução](Introdução)
+9. [Mensagem_Privada_(DM)](Mensagem_Privada_(DM))
+10. [Página_Inicial](Página_Inicial)
+11. [Seguir_Hashtags](Seguir_Hashtags)
+12. [Sensíveis](Sensíveis)
+13. [Tags_Semanais](Tags_Semanais)
+14. [TDM](TDM)
+15. [Textos_Acessíveis](Textos_Acessíveis)
+16. [Toots](Toots)
+17. [XMPP](XMPP)
 
 # FONTES PARA CONSULTA
 
