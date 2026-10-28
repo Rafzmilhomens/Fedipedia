@@ -1,11 +1,6 @@
 <a rel="me" href="https://organica.social/@rafzmilhomens">Mastodon</a>
 
-Chamo-me Rafael[^2] e sou o criador desta página. A ideia é facilitar a navegação pelas redes federadas aos novos membros. Vou adicionando novas informações de acordo com minhas próprias descobertas, organicamente.[^4]
-
-Se quiser colaborar[^3] ou corrigir alguma informação, você pode mandar um e-mail para rafzmilhomens@proton.me ou uma DM em rafzmilhomens@organica.social 
-
-RFZ
-
+Essa é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 # VERBETES
 
 Nos links abaixo você encontrará os verbetes em ordem alfabética.
@@ -61,6 +56,15 @@ Nos links abaixo você encontrará os verbetes em ordem alfabética.
 # CONTAS QUE JÁ COLABORARAM PARA O PROJETO
 
 - @noahebalon@app.wafrn.net 
+
+# Sobre Mim
+
+Chamo-me Rafael[^2] e sou o criador desta página. A ideia é facilitar a navegação pelas redes federadas aos novos membros. Vou adicionando novas informações de acordo com minhas próprias descobertas, organicamente.[^4]
+
+Se quiser colaborar[^3] ou corrigir alguma informação, você pode mandar um e-mail para rafzmilhomens@proton.me ou uma DM em rafzmilhomens@organica.social 
+
+RFZ
+
 
 [^2]: [https://rafzmilhomens.github.io/RafaelMMilhomens/](https://rafzmilhomens.github.io/RafaelMMilhomens/)
 
