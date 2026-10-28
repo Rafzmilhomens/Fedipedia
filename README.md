@@ -26,8 +26,8 @@ Nos links abaixo você encontrará os verbetes em ordem alfabética.
 # FONTES PARA CONSULTA
 
 - [https://blog.organica.social/sobre/](https://blog.organica.social/sobre/)
-- https://dicas.bolha.us/#leituras
-- https://jardim.social.br/usuarios/glossario/
+- [https://dicas.bolha.us/#leituras](https://dicas.bolha.us/#leituras)
+- [https://jardim.social.br/usuarios/glossario/](https://jardim.social.br/usuarios/glossario/)
 
 [^2]: [https://rafzmilhomens.github.io/RafaelMMilhomens/](https://rafzmilhomens.github.io/RafaelMMilhomens/)
 
