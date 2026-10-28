@@ -28,6 +28,22 @@ Nos links abaixo você encontrará os verbetes em ordem alfabética.
 - [https://blog.organica.social/sobre/](https://blog.organica.social/sobre/)
 - [https://dicas.bolha.us/#leituras](https://dicas.bolha.us/#leituras)
 - [https://jardim.social.br/usuarios/glossario/](https://jardim.social.br/usuarios/glossario/)
+- [https://docs.akkoma.dev/stable/](https://docs.akkoma.dev/stable/)
+- [https://joinsharkey.org/](https://joinsharkey.org/)
+- [https://gotosocial.org/](https://gotosocial.org/)
+- [https://join-lemmy.org/](https://join-lemmy.org/)
+- [https://friendi.ca/](https://friendi.ca/)
+- [https://iceshrimp.dev/iceshrimp/iceshrimp.net](https://iceshrimp.dev/iceshrimp/iceshrimp.net)
+- [https://joinpeertube.org/](https://joinpeertube.org/)
+- [https://www.funkwhale.audio/join/](https://www.funkwhale.audio/join/)
+- [https://wafrn.net/](https://www.funkwhale.audio/join/)
+- [https://pixelfed.org/](https://pixelfed.org/)
+- [https://fedi.tips/](https://fedi.tips/) (muito baseado no mastodon mas ajuda iniciantes)
+- [https://fedidb.com/](https://fedidb.com/) (dabatase com servidores e clientes que participam do fediverso, claro, aqueles que optaram a serem indexados)
+
+# CONTAS QUE JÁ COLABORARAM PARA O PROJETO
+
+- @noahebalon@app.wafrn.net 
 
 [^2]: [https://rafzmilhomens.github.io/RafaelMMilhomens/](https://rafzmilhomens.github.io/RafaelMMilhomens/)
 
