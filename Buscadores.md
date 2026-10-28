@@ -1,0 +1,1 @@
+1. É possível configurar sua conta para não aparecer nos buscadores da internet, também seus [Toots](Toots), mas isso não torna os seus posts impossíveis de serem rastreados.
