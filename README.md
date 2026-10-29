@@ -10,8 +10,9 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 
 **B**
 
-1. [Boost](Boost)
-2. [Buscadores](Buscadores)
+1. [Bamblers](Bamblers)
+2. [Boost](Boost)
+3. [Buscadores](Buscadores)
 
 **E**
 
@@ -100,7 +101,8 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 
 # CONTAS QUE JÁ COLABORARAM PARA O PROJETO
 
-- @noahebalon@app.wafrn.net 
+- @noahebalon@app.wafrn.net
+- @fabianny@masto.donte.com.br
 
 # Sobre Mim
 
