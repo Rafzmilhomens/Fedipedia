@@ -98,6 +98,7 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 	- Muito baseado no mastodon mas ajuda iniciantes.
 - [https://fedidb.com/](https://fedidb.com/)
 	- Dabatase com servidores e clientes que participam do fediverso, claro, aqueles que optaram a serem indexados.
+- https://venhammaismil.pt/primeiros-passos/
 
 # CONTAS QUE JÁ COLABORARAM PARA O PROJETO
 
