@@ -20,8 +20,9 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 
 **F**
 
-4. [Fediverso](Fediverso)
-5. [Federação](Federação)
+4. [Fedicast](Fedicast)
+5. [Fediverso](Fediverso)
+6. [Federação](Federação)
 
 **I**
 
