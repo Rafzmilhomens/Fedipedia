@@ -10,4 +10,4 @@ _locução substantiva feminina · funcionalidade_
 ## Vide também
 
 - [Toots](Toots.md)
-- [Mensagem_Privada(DM)](Mensagem_Privada(DM).md)
+- [Mensagem Privada(DM)](Mensagem_Privada_DM.md)

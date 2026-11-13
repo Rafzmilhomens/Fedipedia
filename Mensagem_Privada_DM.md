@@ -1,4 +1,4 @@
-# Mensagem Privada(DM)
+# Mensagem Privada DM
 
 `Men·sa·gem Pri·va·da (DM)`
 

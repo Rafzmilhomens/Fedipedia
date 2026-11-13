@@ -36,7 +36,7 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 
 **M**
 
-7. [Mensagem_Privada(DM)](Mensagem_Privada(DM).md)
+7. [Mensagem_Privada(DM)](Mensagem_Privada_DM.md)
 8. [Metadados](Metadados)
 9. [Moderação](Moderação)
 10. [Multiplataforma](Multiplataforma)
