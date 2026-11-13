@@ -48,7 +48,7 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 **P**
 
 12. [Página_Inicial](Página_Inicial)
-13. [Peertube](Peertube)
+13. [PeerTube](PeerTube)
 14. [Pixelfed](Pixelfed)
 15. [Portabilidade](Portabilidade)
 
