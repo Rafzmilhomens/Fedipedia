@@ -1,0 +1,188 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2775.2">
+  <style type="text/css">
+    body {background-color: #efebe0}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+<p class="p1">&lt;!-- ===== Fedipedia — estilo de enciclopédia clássica. Colar em _includes/head-custom.html ===== --&gt;</p>
+<p class="p1">&lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;</p>
+<p class="p1">&lt;link rel="preconnect" href="https://fonts.gstatic.com" crossorigin&gt;</p>
+<p class="p1">&lt;link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&amp;family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&amp;display=swap" rel="stylesheet"&gt;</p>
+<p class="p2"><br></p>
+<p class="p1">&lt;style&gt;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>:root {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>--papel: #FBF9F4;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>--tinta: #202122;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>--cinza: #6B6B6B;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>--fio: #D8D3C7;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>--link: #2A5DB0;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>--link-visitado: #5A3E8C;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>html, body { background: var(--papel); }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-family: "Source Serif 4", Georgia, serif;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-size: 18px;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>line-height: 1.65;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>color: var(--tinta);</p>
+<p class="p1"><span class="Apple-converted-space">    </span>max-width: 46em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>margin: 0 auto !important;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding: 2.5em 1.5em 3em !important;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>/* ---------- Cabeçalho: "Fedipedia" como nome de obra de referência ---------- */</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body &gt; h1:first-child {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-family: "Libre Caslon Text", Georgia, serif;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-weight: 400;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-size: 1.6em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-variant: small-caps;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>letter-spacing: 0.12em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>text-align: center;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>border: 0;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>border-bottom: 3px double var(--fio);</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding: 0 0 0.5em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>margin: 0 0 1.8em;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body &gt; h1:first-child a { color: var(--tinta); text-decoration: none; }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>/* ---------- Títulos de verbete e seções ---------- */</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body h1,</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body h2,</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body h3 {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-family: "Libre Caslon Text", Georgia, serif;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-weight: 400;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>color: var(--tinta);</p>
+<p class="p1"><span class="Apple-converted-space">    </span>line-height: 1.25;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body h1:not(:first-child) {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-size: 2.1em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>border-bottom: 1px solid var(--fio);</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding-bottom: 0.2em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>margin: 1.6em 0 0.7em;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body h2 {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-size: 1.45em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>border-bottom: 1px solid var(--fio);</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding-bottom: 0.15em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>margin: 1.6em 0 0.6em;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body h3 { font-size: 1.15em; font-weight: 700; border: 0; }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body p { margin: 0 0 1em; }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>/* ---------- Links no padrão de enciclopédia ---------- */</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body a { color: var(--link); text-decoration: none; }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body a:visited { color: var(--link-visitado); }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body a:hover { text-decoration: underline; text-underline-offset: 0.15em; }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>/* ---------- Página inicial: índice alfabético ---------- */</p>
+<p class="p1"><span class="Apple-converted-space">  </span>/* A letra (o **A** sozinho num parágrafo, seguido da lista) */</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body p:has(&gt; strong:only-child):has(+ ol) {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-family: "Libre Caslon Text", Georgia, serif;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-size: 1.7em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>line-height: 1;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>color: var(--tinta);</p>
+<p class="p1"><span class="Apple-converted-space">    </span>border-bottom: 1px solid var(--fio);</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding-bottom: 0.15em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>margin: 1.4em 0 0.5em;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body p:has(&gt; strong:only-child):has(+ ol) strong { font-weight: 400; }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>/* Os verbetes de cada letra, em colunas */</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body p:has(&gt; strong:only-child) + ol {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>list-style: none;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding: 0;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>margin: 0 0 0.5em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>columns: 3 12em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>column-gap: 2em;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body p:has(&gt; strong:only-child) + ol li {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>break-inside: avoid;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>margin: 0 0 0.25em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding-left: 0;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body p:has(&gt; strong:only-child) + ol li::before { content: none; }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>/* ---------- Página de verbete: acepções numeradas ---------- */</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body &gt; ol {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>list-style: none;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>counter-reset: acepcao;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding: 0;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body &gt; ol &gt; li {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>counter-increment: acepcao;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>position: relative;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding-left: 2em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>margin: 0 0 0.8em;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body &gt; ol &gt; li::before {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>content: counter(acepcao) ".";</p>
+<p class="p1"><span class="Apple-converted-space">    </span>position: absolute;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>left: 0;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-weight: 600;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>color: var(--cinza);</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>/* Listas comuns (fontes, colaboradores) */</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body ul { padding-left: 1.4em; }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body ul li { margin: 0.2em 0; }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body ul li::marker { color: var(--cinza); }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>/* ---------- Notas e referências ---------- */</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body sup a::before { content: "["; }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body sup a::after<span class="Apple-converted-space">  </span>{ content: "]"; }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body sup { font-size: 0.7em; }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body .footnotes {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-size: 0.85em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>color: var(--cinza);</p>
+<p class="p1"><span class="Apple-converted-space">    </span>margin-top: 3em;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body .footnotes::before {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>content: "Referências";</p>
+<p class="p1"><span class="Apple-converted-space">    </span>display: block;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-family: "Libre Caslon Text", Georgia, serif;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-size: 1.5em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>color: var(--tinta);</p>
+<p class="p1"><span class="Apple-converted-space">    </span>border-bottom: 1px solid var(--fio);</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding-bottom: 0.15em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>margin-bottom: 0.6em;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body .footnotes ol { padding-left: 1.6em; }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body .footnotes hr { display: none; }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body blockquote {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>color: var(--tinta);</p>
+<p class="p1"><span class="Apple-converted-space">    </span>background: #F3EFE4;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>border-left: 3px solid var(--fio);</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding: 0.6em 1em;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body img { max-width: 100%; border: 1px solid var(--fio); padding: 3px; background: #fff; }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>/* Rodapé do tema */</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.markdown-body .footer {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>border-top: 1px solid var(--fio) !important;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>color: var(--cinza) !important;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-size: 0.75em;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>::selection { background: #DCE6F7; }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>@media (max-width: 600px) {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>.markdown-body { font-size: 17px; padding: 1.5em 1em 2em !important; }</p>
+<p class="p1"><span class="Apple-converted-space">    </span>.markdown-body h1:not(:first-child) { font-size: 1.7em; }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1">&lt;/style&gt;</p>
+<p class="p1">&lt;!-- ===== fim do estilo ===== --&gt;</p>
+</body>
+</html>
