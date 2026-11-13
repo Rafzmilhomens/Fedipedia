@@ -1,5 +1,13 @@
-# Página Inicial[^1]
+# Página Inicial
 
-1. É o que chamamos de feed em outras redes. Funciona em ordem cronológica na organica.social
+`Pá·gi·na I·ni·ci·al`
 
-[^1]: Ref: [https://blog.organica.social/sobre/](https://blog.organica.social/sobre/)
+_locução substantiva feminina · funcionalidade_
+
+1. É o que chamamos de feed em outras redes. Funciona em ordem cronológica na organica.social[^1]
+
+## Vide também
+
+- [Internet Devagar](Internet_Devagar.md)
+
+[^1]: ref: [https://blog.organica.social/sobre/](https://blog.organica.social/sobre/)

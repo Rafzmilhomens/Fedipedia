@@ -1,8 +1,12 @@
 # Registrar-se Em Uma Instância
 
+`Re·gis·trar-se Em U·ma Ins·tân·cia`
+
+_guia_
+
 1. É possível escolher uma instância nas listas de boas vindas às plataformas. Também é possível hospedar a própria instância.
 
-# Guia
+## Guia
 
 1. Sua instância é sua casa na rede federada. Cada uma tem regras próprias.
 2. Escolha a que lhe agradar mais.
@@ -10,3 +14,7 @@
 4. Preencha o que for requisitado conforme.
 5. Algumas instâncias não são de admissão instantânea. Aguarde.
 6. Confirme o e-mail e navegue na rede federada.
+
+## Vide também
+
+- [Instâncias](Instâncias.md)
