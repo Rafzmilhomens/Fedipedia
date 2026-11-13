@@ -70,33 +70,61 @@
   .markdown-body a:visited { color: var(--link-visitado); }
   .markdown-body a:hover { text-decoration: underline; text-underline-offset: 0.15em; }
 
-  /* ---------- Página inicial: índice alfabético ---------- */
+  /* ---------- Página inicial: índice alfabético em colunas ----------
+     A página inteira vira 3 colunas, mas tudo que não é índice ocupa
+     a largura toda (column-span). Só as letras e seus verbetes fluem
+     de cima para baixo nas colunas, como no índice de uma enciclopédia. */
+  .markdown-body {
+    counter-reset: verbete;
+    columns: 3;
+    column-gap: 2.2em;
+    column-rule: 1px solid var(--fio);
+  }
+  .markdown-body > :not(p:has(> strong:only-child):has(+ ol)):not(p:has(> strong:only-child) + ol) {
+    column-span: all;
+  }
+
   /* A letra (o **A** sozinho num parágrafo, seguido da lista) */
   .markdown-body p:has(> strong:only-child):has(+ ol) {
     font-family: "Libre Caslon Text", Georgia, serif;
-    font-size: 1.7em;
+    font-size: 1.4em;
     line-height: 1;
     color: var(--tinta);
     border-bottom: 1px solid var(--fio);
-    padding-bottom: 0.15em;
-    margin: 1.4em 0 0.5em;
+    padding: 0.2em 0 0.15em;
+    margin: 0 0 0.3em;
+    break-after: avoid;
+    break-inside: avoid;
   }
   .markdown-body p:has(> strong:only-child):has(+ ol) strong { font-weight: 400; }
 
-  /* Os verbetes de cada letra, em colunas */
+  /* Os verbetes, numerados em sequência ao longo de todo o índice */
   .markdown-body p:has(> strong:only-child) + ol {
     list-style: none;
     padding: 0;
-    margin: 0 0 0.5em;
-    columns: 3 12em;
-    column-gap: 2em;
+    margin: 0 0 1.2em;
+    font-size: 0.92em;
+    break-inside: avoid;           /* não parte uma letra entre duas colunas */
   }
   .markdown-body p:has(> strong:only-child) + ol li {
-    break-inside: avoid;
-    margin: 0 0 0.25em;
-    padding-left: 0;
+    counter-increment: verbete;
+    position: relative;
+    padding-left: 2.1em;
+    margin: 0 0 0.3em;
+    overflow-wrap: anywhere;
   }
-  .markdown-body p:has(> strong:only-child) + ol li::before { content: none; }
+  .markdown-body p:has(> strong:only-child) + ol li::before {
+    content: counter(verbete);
+    position: absolute;
+    left: 0;
+    top: 0.12em;
+    width: 1.6em;
+    text-align: right;
+    font-size: 0.85em;
+    font-weight: 400;
+    color: var(--cinza);
+    font-variant-numeric: tabular-nums;
+  }
 
   /* ---------- Página de verbete: acepções numeradas ---------- */
   .markdown-body > ol {
@@ -166,6 +194,7 @@
   @media (max-width: 600px) {
     .markdown-body { font-size: 17px; padding: 1.5em 1em 2em !important; }
     .markdown-body h1:not(:first-child) { font-size: 1.7em; }
+    .markdown-body { columns: 2; column-gap: 1.4em; }
   }
 </style>
 <!-- ===== fim do estilo ===== -->
