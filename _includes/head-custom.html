@@ -126,7 +126,43 @@
     font-variant-numeric: tabular-nums;
   }
 
-  /* ---------- Página de verbete: acepções numeradas ---------- */
+  /* ---------- Página de verbete (só Markdown, sem cabeçalho YAML) ----------
+     # Fediverso
+     `Fe·di·ver·so`                  ← separação silábica, entre crases
+     *substantivo masculino*         ← tipologia, em itálico, sozinha na linha
+     1. Primeira acepção…            ← acepções numeradas
+     ## Vide também
+     - [Federação](Federação.md)     ← lista de links no fim
+  */
+
+  /* Título do verbete seguido de separação silábica: tira o fio do título */
+  .markdown-body h1:not(:first-child):has(+ p > code:only-child) {
+    border-bottom: 0;
+    padding-bottom: 0;
+    margin-bottom: 0.15em;
+  }
+
+  /* Separação silábica */
+  .markdown-body h1 + p:has(> code:only-child) { margin: 0 0 0.1em; }
+  .markdown-body h1 + p > code:only-child {
+    font-family: inherit;
+    font-size: 1.05em;
+    letter-spacing: 0.08em;
+    color: var(--cinza);
+    background: none;
+    padding: 0;
+    border-radius: 0;
+  }
+
+  /* Tipologia (com ou sem a linha da separação silábica antes) */
+  .markdown-body h1 + p:has(> code:only-child) + p:has(> em:only-child),
+  .markdown-body h1 + p:has(> em:only-child) {
+    border-bottom: 1px solid var(--fio);
+    padding-bottom: 0.7em;
+    margin-bottom: 1.5em;
+  }
+
+  /* Acepções numeradas (1., 2., 3.…) */
   .markdown-body > ol {
     list-style: none;
     counter-reset: acepcao;
@@ -143,6 +179,21 @@
     position: absolute;
     left: 0;
     font-weight: 600;
+    color: var(--cinza);
+  }
+
+  /* Vide também: a última lista depois de um ## vira uma linha de links com setas */
+  .markdown-body h2:has(+ ul:last-of-type) { font-size: 1.3em; margin-top: 2em; }
+  .markdown-body h2 + ul:last-of-type {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3em 1.6em;
+  }
+  .markdown-body h2 + ul:last-of-type li { margin: 0; }
+  .markdown-body h2 + ul:last-of-type li::before {
+    content: "→ ";
     color: var(--cinza);
   }
 
