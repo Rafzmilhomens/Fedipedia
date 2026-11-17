@@ -4,7 +4,7 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 **A**
 
 1. [ActivityPub](ActivityPub)
-2. [Algorítimo](Algorítimo)
+2. [Algoritimo](Algorítimo)
 3. [Aplicativo Cliente](Aplicativo_Cliente)
 4. [Apoio Financeiro](Apoio_Financeiro)
 5. [Avatar Do Perfil](Avatar_Do_Perfil)
@@ -115,6 +115,7 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 - @noahebalon@app.wafrn.net
 - @fabianny@masto.donte.com.br
 - @caiocgo@bolha.us
+- @leomsluz@organica.social
 
 # Sobre Mim
 
