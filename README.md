@@ -5,9 +5,9 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 
 1. [ActivityPub](ActivityPub)
 2. [Algorítimo](Algorítimo)
-3. [Aplicativo_Cliente](Aplicativo_Cliente)
-4. [Apoio_Financeiro](Apoio_Financeiro)
-5. [Avatar_Do_Perfil](Avatar_Do_Perfil)
+3. [Aplicativo Cliente](Aplicativo_Cliente)
+4. [Apoio Financeiro](Apoio_Financeiro)
+5. [Avatar Do Perfil](Avatar_Do_Perfil)
 
 **B**
 
@@ -17,7 +17,7 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 
 **E**
 
-3. [Em_Alta](Em_Alta)
+3. [Em Alta](Em_Alta)
 
 **F**
 
@@ -28,7 +28,7 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 **I**
 
 6. [Instâncias](Instâncias)
-7. [Internet_Devagar](Internet_Devagar)
+7. [Internet Devagar](Internet_Devagar)
 8. [Introdução](Introdução)
 9. [Interoperabilidade](Interoperabilidade)
 
@@ -42,39 +42,39 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 
 **M**
 
-7. [Mensagem_Privada(DM)](Mensagem_Privada_DM.md)
+7. [Mensagem Privada(DM)](Mensagem_Privada_DM.md)
 8. [Metadados](Metadados)
 9. [Moderação](Moderação)
 10. [Multiplataforma](Multiplataforma)
 
 **O**
 
-11. [Open_Source](Open_Source)
+11. [Open Source](Open_Source)
 
 **P**
 
-12. [Página_Inicial](Página_Inicial)
+12. [Página Inicial](Página_Inicial)
 13. [PeerTube](PeerTube)
 14. [Pixelfed](Pixelfed)
 15. [Portabilidade](Portabilidade)
 
 **R**
 
-16. [Raspagem_Na_Web](Raspagem_Na_Web)
-17. [Registrar-se_Em_Uma_Instância](Registrar-se_Em_Uma_Instância)
-18. [Regras_Da_Instância](Regras_Da_Instância)
+16. [Raspagem Na Web](Raspagem_Na_Web)
+17. [Registrar-se Em Uma Instância](Registrar-se_Em_Uma_Instância)
+18. [Regras Da Instância](Regras_Da_Instância)
 
 **S**
 
-18. [Seguir_Hashtags](Seguir_Hashtags)
+18. [Seguir Hashtags](Seguir_Hashtags)
 19. [Sensíveis](Sensíveis)
 20. [Silenciar](Silenciar)
 
 **T**
 
-21. [Tags_Semanais](Tags_Semanais)
+21. [Tags Semanais](Tags_Semanais)
 22. [TDM](TDM)
-23. [Textos_Acessíveis](Textos_Acessíveis)
+23. [Textos Acessíveis](Textos_Acessíveis)
 24. [Toots](Toots)
 
 **U**
@@ -83,7 +83,7 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 
 **V**
 
-26. [Visibilidade_Dos_Toots](Visibilidade_Dos_Toots)
+26. [Visibilidade Dos Toots](Visibilidade_Dos_Toots)
 
 **X**
 
