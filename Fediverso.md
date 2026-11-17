@@ -10,7 +10,7 @@ _substantivo masculino · conceito_
 
 - [Federação](Federação.md)
 - [Instâncias](Instâncias.md)
-- [Activity Pub](Activity_Pub.md)
+- [ActivityPub](ActivityPub)
 - [Jeferson](Jeferson.md)
 
 [^1]: ref: [https://jardim.social.br/usuarios/glossario/](https://jardim.social.br/usuarios/glossario/)

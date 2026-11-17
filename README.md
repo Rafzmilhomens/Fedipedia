@@ -3,10 +3,11 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 
 **A**
 
-1. [Activity_Pub](Activity_Pub)
-2. [Aplicativo_Cliente](Aplicativo_Cliente)
-3. [Apoio_Financeiro](Apoio_Financeiro)
-4. [Avatar_Do_Perfil](Avatar_Do_Perfil)
+1. [ActivityPub](ActivityPub)
+2. [Algorítimo](Algorítimo)
+3. [Aplicativo_Cliente](Aplicativo_Cliente)
+4. [Apoio_Financeiro](Apoio_Financeiro)
+5. [Avatar_Do_Perfil](Avatar_Do_Perfil)
 
 **B**
 
@@ -29,10 +30,15 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 6. [Instâncias](Instâncias)
 7. [Internet_Devagar](Internet_Devagar)
 8. [Introdução](Introdução)
+9. [Interoperabilidade](Interoperabilidade)
 
 **J**
 
 6. [Jeferson](Jeferson)
+
+**L**
+
+1. [Linhas Do Tempo](Linhas_Do_Tempo)
 
 **M**
 
@@ -56,6 +62,7 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 
 16. [Raspagem_Na_Web](Raspagem_Na_Web)
 17. [Registrar-se_Em_Uma_Instância](Registrar-se_Em_Uma_Instância)
+18. [Regras_Da_Instância](Regras_Da_Instância)
 
 **S**
 
@@ -84,6 +91,8 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 
 # FONTES PARA CONSULTA
 
+- [https://www.youtube.com/watch?v=5Lb7NSCK0VQ&t=15s](https://www.youtube.com/watch?v=5Lb7NSCK0VQ&t=15s)
+	- Vídeo muito bacana de introdução ao Fediverso
 - [https://blog.organica.social/sobre/](https://blog.organica.social/sobre/)
 - [https://dicas.bolha.us/#leituras](https://dicas.bolha.us/#leituras)
 - [https://jardim.social.br/usuarios/glossario/](https://jardim.social.br/usuarios/glossario/)
@@ -105,6 +114,7 @@ Esta é uma enciclopédia não técnica e não oficial sobre o Fediverso.
 
 - @noahebalon@app.wafrn.net
 - @fabianny@masto.donte.com.br
+- @caiocgo@bolha.us
 
 # Sobre Mim
 

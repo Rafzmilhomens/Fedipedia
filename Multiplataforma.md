@@ -8,6 +8,6 @@ _adjetivo · conceito_
 
 ## Vide também
 
-- [Activity Pub](Activity_Pub.md)
+- [ActivityPub](ActivityPub)
 - [PeerTube](PeerTube.md)
 - [Pixelfed](Pixelfed.md)

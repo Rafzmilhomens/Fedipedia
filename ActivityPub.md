@@ -1,4 +1,4 @@
-# Activity Pub
+# ActivityPub
 
 _substantivo próprio · conceito_
 
